@@ -1,10 +1,15 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marie1993&theme=cobalt&layout=compact&langs_count=6&hide=html)
+
+
 <!--
 **Marie1993/Marie1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+![stats](https://github-readme-stats.vercel.app/api?username=Marie1993&theme=cobalt&show_icons=true)
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
